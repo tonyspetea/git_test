@@ -1,1 +1,2 @@
-This Anto's first git project in 2021
+Hoping and working extremely hard to be a programmer and more specifically web developer
+
